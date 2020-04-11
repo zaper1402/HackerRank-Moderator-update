@@ -1,0 +1,1 @@
+node ./HackerRank_aa.js ./credentials.json ashirkul
